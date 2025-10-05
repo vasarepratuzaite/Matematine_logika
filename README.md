@@ -1,2 +1,2 @@
-# Matematin-_logika
+# Matematine logika
 Gremlin užklausų sistema
